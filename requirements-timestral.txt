@@ -1,0 +1,5 @@
+-r requirements.txt
+torch>=2.4
+safetensors
+huggingface_hub
+git+https://github.com/mistralai/timestral.git
